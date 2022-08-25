@@ -5,6 +5,7 @@ public class Main {
 
     static String word = "javalove";
 
+
     public static void main(String[] args) {
 
                 Scanner input = new Scanner(System.in);
